@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/josse/CLionProjects/TSCLabo3/classes.h
+
+C:/Users/josse/CLionProjects/TSCLabo3/display_tools.h
+
+C:/Users/josse/CLionProjects/TSCLabo3/main.cpp
+iostream
+-
+math_tools.h
+C:/Users/josse/CLionProjects/TSCLabo3/math_tools.h
+classes.h
+C:/Users/josse/CLionProjects/TSCLabo3/classes.h
+tools.h
+C:/Users/josse/CLionProjects/TSCLabo3/tools.h
+sel.h
+C:/Users/josse/CLionProjects/TSCLabo3/sel.h
+display_tools.h
+C:/Users/josse/CLionProjects/TSCLabo3/display_tools.h
+
+C:/Users/josse/CLionProjects/TSCLabo3/math_tools.h
+vector
+-
+math.h
+C:/Users/josse/CLionProjects/TSCLabo3/math.h
+stdlib.h
+C:/Users/josse/CLionProjects/TSCLabo3/stdlib.h
+
+C:/Users/josse/CLionProjects/TSCLabo3/sel.h
+
+C:/Users/josse/CLionProjects/TSCLabo3/tools.h
+fstream
+-
+string
+-
+
